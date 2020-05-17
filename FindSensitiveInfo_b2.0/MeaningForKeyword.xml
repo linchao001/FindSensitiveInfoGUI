@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Field name="F_PAN">
+		<id>2</id>
+		<description>账号</description>
+	</Field>
+
+	<Field name="F_VALIDDATE">
+		<id>14</id>
+		<description>卡有效期</description>
+	</Field>
+
+	<Field name="F_POSENTRYMODE">
+		<id>22</id>
+		<description>服务点输入方式码</description>
+	</Field>
+
+	<Field name="F_POSCONDITIONCODE">
+		<id>25</id>
+		<description>服务点条件码</description>
+	</Field>
+
+	<Field name="F_POSPINCAPTURECODE">
+		<id>26</id>
+		<description>服务点PIN获取码</description>
+	</Field>
+
+	<Field name="F_TRACK2">
+		<id>35</id>
+		<description>第二磁道数据</description>
+	</Field>
+
+	<Field name="F_TRACK3">
+		<id>36</id>
+		<description>第三磁道数据</description>
+	</Field>
+
+	<Field name="F_TRACK1">
+		<id>45</id>
+		<description>第一磁道数据</description>
+	</Field>
+
+	<Field name="F_PRIVATEDATA">
+		<id>48</id>
+		<description>附加数据</description>
+	</Field>
+
+	<Field name="F_SMPINDATA">
+		<id>52</id>
+		<description>个人标识码数据</description>
+	</Field>
+
+	<Field name="F_3DESNEWPINDATA">
+		<id>52</id>
+		<description>个人标识码数据</description>
+	</Field>
+
+	<Field name="F_ATMSPIN">
+		<id>52</id>
+		<description>个人标识码数据</description>
+	</Field>
+
+	<Field name="F_PINDATA">
+		<id>52</id>
+		<description>个人标识码数据</description>
+	</Field>
+
+	<Field name="F_SMNEWPINDATA">
+		<id>52</id>
+		<description>个人标识码数据</description>
+	</Field>
+
+	<Field name="F_SECURITYCONTROLINFO">
+		<id>53</id>
+		<description>安全控制信息</description>
+	</Field>
+
+	<Field name="F_55DATA">
+		<id>55</id>
+		<description>IC卡数据域，选择屏蔽不安全数据</description>
+	</Field>
+
+	<Field name="F_57DATA">
+		<id>57</id>
+		<description>附加交易信息</description>
+	</Field>
+
+	<Field name="F_ADDTRANCETION">
+		<id>57</id>
+		<description>附加交易信息</description>
+	</Field>
+
+	<Field name="F_ADDDATA">
+		<id>57</id>
+		<description>附加交易信息</description>
+	</Field>
+
+	<Field name="F_ISSUERADDITIONDATA">
+		<id>57</id>
+		<description>附加交易信息</description>
+	</Field>
+
+	<Field name="F_58DATA">
+		<id>58</id>
+		<description>基于PBOC电子钱包/存折IC卡标准的交易数据</description>
+	</Field>
+
+	<Field name="F_ADDITIONDATA">
+		<id>60</id>
+		<description>自定义域(附加服务点数据)</description>
+	</Field>
+
+	<Field name="F_ADDITIONDATA">
+		<id>60</id>
+		<description>自定义域(附加服务点数据)</description>
+	</Field>
+
+	<Field name="F_BATCHNUMBER">
+		<id>61</id>
+		<description>持卡人身份认证信息</description>
+	</Field>
+
+	<Field name="F_61DATA">
+		<id>61</id>
+		<description>持卡人身份认证信息</description>
+	</Field>
+
+	<Field name="F_CARDHOLDINFO">
+		<id>61</id>
+		<description>持卡人身份认证信息</description>
+	</Field>
+
+	<Field name="F_MSG_SECURITY_CODE">
+		<id>96</id>
+		<description>报文安全码</description>
+	</Field>
+
+	<Field name="F_ACCOUNTID1">
+		<id>102</id>
+		<description>账户标识1</description>
+	</Field>
+
+	<Field name="F_ACCOUNTID2">
+		<id>103</id>
+		<description>账户标识2</description>
+	</Field>
+
+	<Field name="F_MAC">
+		<id>128</id>
+		<description>报文鉴别码</description>
+	</Field>
+</root>
